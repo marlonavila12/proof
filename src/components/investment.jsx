@@ -1,4 +1,9 @@
-import Container from "./container/container.jsx";
+import Container from "./container/container.jsx"
+import Header from "./header/header.jsx"
 export default function investment(){
-    <Container></Container>
+    return (
+        <Container>
+            <Header />
+        </Container>
+    )
 }
