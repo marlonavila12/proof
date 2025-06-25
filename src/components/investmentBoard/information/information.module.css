@@ -1,0 +1,32 @@
+.Information{
+    width: 85%;
+    height: max-content;
+    padding: 1.6rem;
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(180deg, #307e6c, #2b996d);
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.Title{
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Title h2{
+    color: #e1eeeb;
+}
+
+.Inputs{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    flex-wrap: wrap;
+}

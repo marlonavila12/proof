@@ -1,0 +1,33 @@
+.InputSection{
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.Block{
+    width: 70%;
+}
+
+.InputSection label{
+    color: #e1eeeb;
+}
+
+.InputSection input{
+    margin-top: 3px;
+    padding: 5px;
+    width: 100%;
+    height: 1.5rem;
+    background-color: transparent;
+    border: 2px solid #e1eeeb;
+    outline: none;
+    font-size: 15px;
+    color: #e1eeeb;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
